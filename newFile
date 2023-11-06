@@ -1,4 +1,9 @@
 testbranch insert
+
+
+
+conflict testbranch
+
 t
 
 conflict success
