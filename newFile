@@ -1,3 +1,8 @@
 testbranch insert
 t
+<<<<<<< HEAD
 insert testbranch
+=======
+conflict test
+
+>>>>>>> BT1
